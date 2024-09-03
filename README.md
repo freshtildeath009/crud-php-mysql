@@ -1,11 +1,13 @@
-Login/No regiter
-Guest = Can view student list
-User = View student list, can add student in the list
-Admin = View student list, can add student in the list, can view the details of the student and edit delete
-
-Technologies
-Php
-mysql
-tailwind
+# Student System<br/>
+<br/>
+Features<br/>
+Login<br/>
+Pagination<br/>
+Search<br/>
+CRUD<br/>
+<br/><br/>
+User type and Accessibility<br/>
+Guest<br/>
+![screencapture-localhost-schoolkit-index-php-2024-09-03-15_46_10](https://github.com/user-attachments/assets/aeb017de-9b0a-4a5f-9523-f88a6b613401)
 
 
