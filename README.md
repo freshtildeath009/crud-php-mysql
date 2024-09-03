@@ -6,8 +6,7 @@ Php<br/>
 Mysql<br/>
 Tailwind<br/>
 <br/>
-## Features![screencapture-localhost-schoolkit-index-php-2024-09-03-16_17_42](https://github.com/user-attachments/assets/130f62b0-9fd9-4146-b40c-fc1414c00a61)
-
+## Features<br/>
 Login<br/>
 Pagination<br/>
 Search<br/>
